@@ -1,5 +1,5 @@
 # Hey selam, ben MZR
-![profile count](https://komarev.com/ghpvc/?username=MZRDevelopment&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=MZRCode&color=red)&nbsp;
 [![GitHub MZRDev](https://img.shields.io/github/followers/MZRCode?label=Takipci&style=social)](https://github.com/MZRCode)&nbsp;
 <a href="https://discord.gg/mzrdevelopment"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
 <a href="https://instaagram.com/ikincielgezginleri"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
