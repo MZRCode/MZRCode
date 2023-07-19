@@ -21,6 +21,6 @@
 <h3 align="left">:bar_chart: GitHub İstatislik:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=MZRCode&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=MZRCode&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100px" alt="stats" />
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=MZRCode&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="125px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=MZRCode&theme=radical" />
 </p>
