@@ -6,7 +6,7 @@
 <a href="https://youtube.com/@MZRDev"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=YouTube&logoColor=white"/></a> &nbsp;
 <a href="https://open.spotify.com/user/x9cbfwe8xc9iu6eqfbpsw2ujb"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a> &nbsp;
 
-## Bildiğim Diller ve Kullandığım Araçlar:
+## Bildiğim Diller, Alt Diller ve Kullandığım Araçlar:
 ![NodeJS](https://img.shields.io/badge/-Node.js%20-111111?style=flat&logo=Node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
