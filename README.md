@@ -26,3 +26,5 @@
    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=MZRCode&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=MZRCode&theme=radical" />
 </p>
+
+![snake-game](https://cdn.discordapp.com/attachments/1163092128189141073/1200073455014527067/github-user-contribution.svg)
