@@ -18,7 +18,7 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)&nbsp;
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-F58025.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Glitch](https://img.shields.io/badge/Glitch-3333FF.svg?style=for-the-badge&logo=Glitch&logoColor=white)&nbsp;
 ![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)&nbsp;
 
