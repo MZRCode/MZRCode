@@ -33,4 +33,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=MZRCode&theme=radical" />
 </p>
 
-![snake-game](https://raw.githubusercontent.com/MZRCode/MZRCode/5e2c64c0afbf5315bbdde4c28551a3eb8c1a5dfe/snake.svg)
+![snake-game](https://raw.githubusercontent.com/MZRCode/MZRCode/71616b6a081f6a4c06eaa879d15eb50e25a2e613/snake.svg)
