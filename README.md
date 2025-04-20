@@ -9,8 +9,8 @@
 ## Languages, Libraries and Tools I Use:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777bb3.svg?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3a76a7.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-6078df.svg?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
