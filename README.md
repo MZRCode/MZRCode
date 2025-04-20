@@ -4,7 +4,18 @@
 <a href="https://discord.gg/ktVdQYrtXF"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
 <a href="https://youtube.com/@MZRDev"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=YouTube&logoColor=white"/></a> &nbsp;
 <a href="https://open.spotify.com/user/x9cbfwe8xc9iu6eqfbpsw2ujb"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a> &nbsp;
-<a href="https://www.buymeacoffee.com/mzrdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="85px" height="20px" alt="Buy Me A Coffee :)"></a>
+<table>
+  <tr>
+    <td>
+      <a href="https://donate.bynogame.com/mzrdev" target="_blank">
+        <img src="https://www.mzrdev.online/platforms/bynogame.png" width="20px" height="20px" alt="Donate Icon"/>
+      </a>
+    </td>
+    <td>
+      <span>You can donate to me :)</span>
+    </td>
+  </tr>
+</table>
 
 ## Languages, Libraries and Tools I Use:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
