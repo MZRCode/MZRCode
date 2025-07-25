@@ -49,7 +49,6 @@
 ![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)&nbsp;
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)&nbsp;
 ![v0](https://img.shields.io/badge/v0-000000.svg?style=for-the-badge&logo=v0&logoColor=white)&nbsp;
-![v0](https://img.shields.io/badge/Monica-2C2B29.svg?style=for-the-badge&logo=Monica&logoColor=white)&nbsp;
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
