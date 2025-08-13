@@ -8,7 +8,7 @@
   <tr>
     <td>
       <a href="https://donate.bynogame.com/mzrdev" target="_blank">
-        <img src="https://www.mzrdev.online/platforms/bynogame.png" width="20px" height="20px" alt="Donate Icon"/>
+        <img src="https://www.mzrdev.com/platforms/bynogame.png" width="20px" height="20px" alt="Donate Icon"/>
       </a>
     </td>
     <td>
