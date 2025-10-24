@@ -1,4 +1,5 @@
-# Hello! I'm MZRDev
+<img src="https://readme-typing-svg.herokuapp.com?&font=BlinkMacSystemFont&color=FFFFFF&size=25&lines=Hello!+I'm+MZRDev;Hello!+I'm+Kaan" /> &nbsp;
+---
 ![profile count](https://komarev.com/ghpvc/?username=MZRCode&color=red)&nbsp;
 [![GitHub MZRDevelopment](https://img.shields.io/github/followers/MZRCode?label=Takipci&style=social)](https://github.com/MZRCode)&nbsp;
 <a href="https://discord.gg/ktVdQYrtXF"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
@@ -56,8 +57,8 @@
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=MZRCode&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=MZRCode&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=MZRCode&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZRCode&count_private=true&langs_count=3&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MZRCode&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
 
 ![snake-game](https://raw.githubusercontent.com/MZRCode/MZRCode/fb47375cfbb3359274376270d4b03e4d79bef742/snake.svg)
