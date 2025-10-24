@@ -4,7 +4,6 @@
 [![GitHub MZRDevelopment](https://img.shields.io/github/followers/MZRCode?label=Takipci&style=social)](https://github.com/MZRCode)&nbsp;
 <a href="https://discord.gg/ktVdQYrtXF"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
 <a href="https://youtube.com/@MZRDev"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=YouTube&logoColor=white"/></a> &nbsp;
-<a href="https://open.spotify.com/user/x9cbfwe8xc9iu6eqfbpsw2ujb"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a> &nbsp;
 <table>
   <tr>
     <td>
