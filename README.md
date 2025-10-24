@@ -42,13 +42,14 @@
 ![Glitch](https://img.shields.io/badge/Glitch-3333FF.svg?style=for-the-badge&logo=Glitch&logoColor=white)&nbsp;
 ![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)&nbsp;
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-34B27B.svg?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-db7533.svg?style=for-the-badge&logo=Liquibase&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-5d87a1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
 
 ![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)&nbsp;
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)&nbsp;
-![v0](https://img.shields.io/badge/v0-000000.svg?style=for-the-badge&logo=v0&logoColor=white)&nbsp;
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
