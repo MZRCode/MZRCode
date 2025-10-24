@@ -57,8 +57,8 @@
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=MZRCode&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZRCode&count_private=true&langs_count=3&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MZRCode&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MZRCode&layout=compact&langs_count=8&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
 
 ![snake-game](https://raw.githubusercontent.com/MZRCode/MZRCode/fb47375cfbb3359274376270d4b03e4d79bef742/snake.svg)
