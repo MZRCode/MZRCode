@@ -50,6 +50,8 @@
 
 ![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)&nbsp;
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-000000.svg?style=for-the-badge&logo=OpenAI&logoColor=white)&nbsp;
+![Anthropic](https://img.shields.io/badge/-Anthropic-DA7756.svg?style=for-the-badge&logo=Anthropic&logoColor=white)&nbsp;
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
