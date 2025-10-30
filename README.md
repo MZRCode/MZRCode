@@ -1,4 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?&font=BlinkMacSystemFont&color=FFFFFF&size=25&lines=Hello!+I'm+MZRDev;Hello!+I'm+Kaan" /> &nbsp;
+![MZRDev GitHub Banner](https://github.com/MZRCode/MZRCode/blob/main/banner.png?raw=true)
 ---
 ![profile count](https://komarev.com/ghpvc/?username=MZRCode&color=red)&nbsp;
 [![GitHub MZRDevelopment](https://img.shields.io/github/followers/MZRCode?label=Takipci&style=social)](https://github.com/MZRCode)&nbsp;
