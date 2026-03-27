@@ -64,4 +64,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MZRCode&layout=compact&langs_count=8&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
 
-![snake-game](https://raw.githubusercontent.com/MZRCode/MZRCode/refs/heads/main/snake.svg)
+![snake-game](https://raw.githubusercontent.com/MZRCode/MZRCode/fee384533d143d550d419b4b975ba1f9451dfefd/snake.svg)
