@@ -5,18 +5,6 @@
 [![GitHub MZRDevelopment](https://img.shields.io/github/followers/MZRCode?label=Takipci&style=social)](https://github.com/MZRCode)&nbsp;
 <a href="https://discord.gg/ktVdQYrtXF"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
 <a href="https://youtube.com/@MZRDev"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=YouTube&logoColor=white"/></a> &nbsp;
-<table>
-  <tr>
-    <td>
-      <a href="https://donate.bynogame.com/mzrdev" target="_blank">
-        <img src="https://www.mzrdev.com/platforms/bynogame.png" width="20px" height="20px" alt="Donate Icon"/>
-      </a>
-    </td>
-    <td>
-      <span>You can donate to me :)</span>
-    </td>
-  </tr>
-</table>
 
 ## Languages, Libraries and Tools I Use:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
