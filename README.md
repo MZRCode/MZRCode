@@ -7,40 +7,33 @@
 <a href="https://youtube.com/@MZRDev"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=YouTube&logoColor=white"/></a> &nbsp;
 
 ## Languages, Libraries and Tools I Use:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777bb3.svg?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3a76a7.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-6078df.svg?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-b14796.svg?style=for-the-badge&logo=C#&logoColor=white)&nbsp;
+![JavaScript](https://icon.mzrdev.com/badge?icon=JavaScript&height=50)&nbsp;
+![TypeScript](https://icon.mzrdev.com/badge?icon=TypeScript&height=50)&nbsp;
+![HTML](https://icon.mzrdev.com/badge?icon=HTML&height=50)&nbsp;
+![CSS](https://icon.mzrdev.com/badge?icon=CSS&height=50)&nbsp;
+![PHP](https://icon.mzrdev.com/badge?icon=PHP-Dark&height=50)&nbsp;
+![Python](https://icon.mzrdev.com/badge?icon=Python-Dark&height=50)&nbsp;
+![Kotlin](https://icon.mzrdev.com/badge?icon=Kotlin-Dark&height=50)&nbsp;
+![C#](https://icon.mzrdev.com/badge?icon=CS&height=50)&nbsp;
 
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-363636.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Vite](https://img.shields.io/badge/Vite-8976fe.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Bun](https://img.shields.io/badge/Bun-a69d90?style=for-the-badge&logo=bun&logoColor=white)&nbsp;
+![Node.js](https://icon.mzrdev.com/badge?icon=Node.js-Dark&height=50)&nbsp;
+![React](https://icon.mzrdev.com/badge?icon=React-Dark&height=50)&nbsp;
+![Next.js](https://icon.mzrdev.com/badge?icon=Next.js-Dark&height=50)&nbsp;
+![Express.js](https://icon.mzrdev.com/badge?icon=Express.js-Dark&height=50)&nbsp;
+![Vite](https://icon.mzrdev.com/badge?icon=Vite-Dark&height=50)&nbsp;
+![Tailwind CSS](https://icon.mzrdev.com/badge?icon=TailwindCSS-Dark&height=50)&nbsp;
+![Bootstrap](https://icon.mzrdev.com/badge?icon=Bootstrap&height=50)&nbsp;
+![Bun](https://icon.mzrdev.com/badge?icon=Bun-Dark&height=50)&nbsp;
 
-![GitHub](https://img.shields.io/badge/Github-000000.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Glitch](https://img.shields.io/badge/Glitch-3333FF.svg?style=for-the-badge&logo=Glitch&logoColor=white)&nbsp;
-![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)&nbsp;
+![GitHub](https://icon.mzrdev.com/badge?icon=Github-Dark&height=50)&nbsp;
+![Git](https://icon.mzrdev.com/badge?icon=Git&height=50)&nbsp;
+![VSCode](https://icon.mzrdev.com/badge?icon=VSCode-Dark&height=50)&nbsp;
+![StackOverflow](https://icon.mzrdev.com/badge?icon=Stack_Overflow-Dark&height=50)&nbsp;
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-34B27B.svg?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-db7533.svg?style=for-the-badge&logo=Liquibase&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-5d87a1.svg?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
-
-![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)&nbsp;
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)&nbsp;
-![OpenAI](https://img.shields.io/badge/-OpenAI-000000.svg?style=for-the-badge&logo=OpenAI&logoColor=white)&nbsp;
-![Anthropic](https://img.shields.io/badge/-Anthropic-DA7756.svg?style=for-the-badge&logo=Anthropic&logoColor=white)&nbsp;
+![PostgreSQL](https://icon.mzrdev.com/badge?icon=PostgreSQL-Dark&height=50)&nbsp;
+![Supabase](https://icon.mzrdev.com/badge?icon=Supabase-Dark&height=50)&nbsp;
+![MongoDB](https://icon.mzrdev.com/badge?icon=MongoDB&height=50)&nbsp;
+![MySQL](https://icon.mzrdev.com/badge?icon=MySQL-Dark&height=50)&nbsp;
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="center">
