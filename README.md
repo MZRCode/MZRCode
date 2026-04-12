@@ -25,7 +25,7 @@
 ![Bootstrap](https://icon.mzrdev.com/badge?icon=Bootstrap&height=50)&nbsp;
 ![Bun](https://icon.mzrdev.com/badge?icon=Bun-Dark&height=50)&nbsp;
 
-![GitHub](https://icon.mzrdev.com/badge?icon=Github-Dark&height=50)&nbsp;
+![GitHub](https://icon.mzrdev.com/badge?icon=GitHub-Dark&height=50)&nbsp;
 ![Git](https://icon.mzrdev.com/badge?icon=Git&height=50)&nbsp;
 ![VSCode](https://icon.mzrdev.com/badge?icon=VSCode-Dark&height=50)&nbsp;
 ![StackOverflow](https://icon.mzrdev.com/badge?icon=Stack_Overflow-Dark&height=50)&nbsp;
