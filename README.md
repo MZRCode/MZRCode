@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?&font=BlinkMacSystemFont&color=FFFFFF&size=25&lines=Hello!+I'm+MZRDev;Hello!+I'm+Kaan" /> &nbsp;
 ![MZRDev GitHub Banner](https://github.com/MZRCode/MZRCode/blob/main/banner.png?raw=true)
 ---
-![profile count](https://icon.mzrdev.com/social?variant=profile-views&username=MZRCode&compact=true&height=50)&nbsp;
+![profile count](https://icon.mzrdev.com/social?variant=profile-views&username=MZRCode&compact=false&height=50)&nbsp;
 [![GitHub MZRDevelopment](https://icon.mzrdev.com/social?variant=github-followers&username=MZRCode&height=50)](https://github.com/MZRCode)&nbsp;
 <a href="https://discord.gg/ktVdQYrtXF"><img src="https://icon.mzrdev.com/badge?icon=Discord&height=50"/></a> &nbsp;
 <a href="https://youtube.com/@MZRDev"><img src="https://icon.mzrdev.com/badge?icon=YouTube&height=50"/></a> &nbsp;
