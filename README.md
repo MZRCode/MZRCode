@@ -1,13 +1,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?&font=BlinkMacSystemFont&color=FFFFFF&size=25&lines=Hello!+I'm+MZRDev;Hello!+I'm+Kaan" /> &nbsp;
 ![MZRDev GitHub Banner](https://github.com/MZRCode/MZRCode/blob/main/banner.png?raw=true)
 ---
-![profile count](https://komarev.com/ghpvc/?username=MZRCode&color=red)&nbsp;
-[![GitHub MZRDevelopment](https://img.shields.io/github/followers/MZRCode?label=Takipci&style=social)](https://github.com/MZRCode)&nbsp;
-<a href="https://discord.gg/ktVdQYrtXF"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
-<a href="https://youtube.com/@MZRDev"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=YouTube&logoColor=white"/></a> &nbsp;
+![profile count](https://icon.mzrdev.com/social?variant=profile-views&username=MZRCode&compact=true&height=50)&nbsp;
+[![GitHub MZRDevelopment](https://icon.mzrdev.com/social?variant=github-followers&username=MZRCode&height=50)](https://github.com/MZRCode)&nbsp;
+<a href="https://discord.gg/ktVdQYrtXF"><img src="https://icon.mzrdev.com/badge?icon=Discord&height=50"/></a> &nbsp;
+<a href="https://youtube.com/@MZRDev"><img src="https://icon.mzrdev.com/badge?icon=YouTube&height=50"/></a> &nbsp;
 
 ## Languages, Libraries and Tools I Use:
-![JavaScript](https://icon.mzrdev.com/badge?icon=JavaScript&height=50&color=c2ad2f)&nbsp;
+![JavaScript](https://icon.mzrdev.com/badge?icon=JavaScript&height=50)&nbsp;
 ![TypeScript](https://icon.mzrdev.com/badge?icon=TypeScript&height=50)&nbsp;
 ![HTML](https://icon.mzrdev.com/badge?icon=HTML&height=50)&nbsp;
 ![CSS](https://icon.mzrdev.com/badge?icon=CSS&height=50)&nbsp;
