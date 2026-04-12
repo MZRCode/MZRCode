@@ -7,7 +7,7 @@
 <a href="https://youtube.com/@MZRDev"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=YouTube&logoColor=white"/></a> &nbsp;
 
 ## Languages, Libraries and Tools I Use:
-![JavaScript](https://icon.mzrdev.com/badge?icon=JavaScript&height=50)&nbsp;
+![JavaScript](https://icon.mzrdev.com/badge?icon=JavaScript&height=50&color=c2ad2f)&nbsp;
 ![TypeScript](https://icon.mzrdev.com/badge?icon=TypeScript&height=50)&nbsp;
 ![HTML](https://icon.mzrdev.com/badge?icon=HTML&height=50)&nbsp;
 ![CSS](https://icon.mzrdev.com/badge?icon=CSS&height=50)&nbsp;
