@@ -12,8 +12,8 @@
 ![HTML](https://icon.mzrdev.com/badge?icon=HTML&height=50)&nbsp;
 ![CSS](https://icon.mzrdev.com/badge?icon=CSS&height=50)&nbsp;
 ![Python](https://icon.mzrdev.com/badge?icon=Python-Dark&height=50)&nbsp;
-![PHP](https://icon.mzrdev.com/badge?icon=PHP-Dark&height=50)&nbsp;
 ![Kotlin](https://icon.mzrdev.com/badge?icon=Kotlin-Dark&height=50)&nbsp;
+![PHP](https://icon.mzrdev.com/badge?icon=PHP-Dark&height=50)&nbsp;
 ![C#](https://icon.mzrdev.com/badge?icon=CS&height=50)&nbsp;
 ![C++](https://icon.mzrdev.com/badge?icon=CPP&height=50)&nbsp;
 
