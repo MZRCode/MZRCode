@@ -11,10 +11,11 @@
 ![TypeScript](https://icon.mzrdev.com/badge?icon=TypeScript&height=50)&nbsp;
 ![HTML](https://icon.mzrdev.com/badge?icon=HTML&height=50)&nbsp;
 ![CSS](https://icon.mzrdev.com/badge?icon=CSS&height=50)&nbsp;
-![PHP](https://icon.mzrdev.com/badge?icon=PHP-Dark&height=50)&nbsp;
 ![Python](https://icon.mzrdev.com/badge?icon=Python-Dark&height=50)&nbsp;
+![PHP](https://icon.mzrdev.com/badge?icon=PHP-Dark&height=50)&nbsp;
 ![Kotlin](https://icon.mzrdev.com/badge?icon=Kotlin-Dark&height=50)&nbsp;
 ![C#](https://icon.mzrdev.com/badge?icon=CS&height=50)&nbsp;
+![C++](https://icon.mzrdev.com/badge?icon=CPP&height=50)&nbsp;
 
 ![Node.js](https://icon.mzrdev.com/badge?icon=Node.js-Dark&height=50)&nbsp;
 ![React](https://icon.mzrdev.com/badge?icon=React-Dark&height=50)&nbsp;
@@ -24,6 +25,7 @@
 ![Tailwind CSS](https://icon.mzrdev.com/badge?icon=TailwindCSS-Dark&height=50)&nbsp;
 ![Bootstrap](https://icon.mzrdev.com/badge?icon=Bootstrap&height=50)&nbsp;
 ![Bun](https://icon.mzrdev.com/badge?icon=Bun-Dark&height=50)&nbsp;
+![Arduino](https://icon.mzrdev.com/badge?icon=Arduino&height=50)&nbsp;
 
 ![GitHub](https://icon.mzrdev.com/badge?icon=GitHub-Dark&height=50)&nbsp;
 ![Git](https://icon.mzrdev.com/badge?icon=Git&height=50)&nbsp;
