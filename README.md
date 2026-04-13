@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?&font=BlinkMacSystemFont&color=FFFFFF&size=25&lines=Hello!+I'm+MZRDev;Hello!+I'm+Kaan" /> &nbsp;
+<img src="https://icon.mzrdev.com/readme-typing-svg?text=Hi%2C%20I%27m%20:Kaan;MZRDev&fontSize=56&startColor=5fed83&endColor=FFFFFF&height=60&cursorGap=0" /> &nbsp;
 ![MZRDev GitHub Banner](https://github.com/MZRCode/MZRCode/blob/main/banner.png?raw=true)
 ---
 ![profile count](https://icon.mzrdev.com/social?variant=profile-views&username=MZRCode&compact=false&height=50)&nbsp;
