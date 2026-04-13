@@ -23,9 +23,10 @@
 ![Express.js](https://icon.mzrdev.com/badge?icon=Express.js-Dark&height=50)&nbsp;
 ![Vite](https://icon.mzrdev.com/badge?icon=Vite-Dark&height=50)&nbsp;
 ![Tailwind CSS](https://icon.mzrdev.com/badge?icon=TailwindCSS-Dark&height=50)&nbsp;
-![Bootstrap](https://icon.mzrdev.com/badge?icon=Bootstrap&height=50)&nbsp;
 ![Bun](https://icon.mzrdev.com/badge?icon=Bun-Dark&height=50)&nbsp;
+![Bootstrap](https://icon.mzrdev.com/badge?icon=Bootstrap&height=50)&nbsp;
 ![Arduino](https://icon.mzrdev.com/badge?icon=Arduino&height=50)&nbsp;
+![FastAPI](https://icon.mzrdev.com/badge?icon=FastAPI&height=50)&nbsp;
 
 ![GitHub](https://icon.mzrdev.com/badge?icon=GitHub-Dark&height=50)&nbsp;
 ![Git](https://icon.mzrdev.com/badge?icon=Git&height=50)&nbsp;
@@ -36,15 +37,12 @@
 ![Supabase](https://icon.mzrdev.com/badge?icon=Supabase-Dark&height=50)&nbsp;
 ![MongoDB](https://icon.mzrdev.com/badge?icon=MongoDB&height=50)&nbsp;
 ![MySQL](https://icon.mzrdev.com/badge?icon=MySQL-Dark&height=50)&nbsp;
+![SQLite](https://icon.mzrdev.com/badge?icon=SQLite&height=50)&nbsp;
+![Appwrite](https://icon.mzrdev.com/badge?icon=Appwrite&height=50)&nbsp;
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MZRCode&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MZRCode&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&hide_border=true" width="%100" height="150px" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MZRCode&layout=compact&langs_count=8&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+  <img src="https://icon.mzrdev.com/stats?username=MZRCode&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&stroke=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&no_bg=true" alt="stats" />
 </p>
 
 ![snake-game](https://raw.githubusercontent.com/MZRCode/MZRCode/fee384533d143d550d419b4b975ba1f9451dfefd/snake.svg)
