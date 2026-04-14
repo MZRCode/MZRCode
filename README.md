@@ -42,7 +42,7 @@
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="center">
-  <img src="https://icon.mzrdev.com/stats?username=MZRCode&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&stroke=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&no_bg=true" alt="stats" />
+  <img src="https://icon.mzrdev.com/stats?username=MZRCode&hide_border=true&no_bg=true&ring=5fed83&fire=5fed83&stroke=5fed83" alt="stats" />
 </p>
 
 ![snake-game](https://raw.githubusercontent.com/MZRCode/MZRCode/fee384533d143d550d419b4b975ba1f9451dfefd/snake.svg)
