@@ -43,5 +43,6 @@
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="center">
   <img src="https://icon.mzrdev.com/stats?username=MZRCode&hide_border=true&no_bg=true&ring=5fed83&fire=5fed83&stroke=5fed83" alt="stats" />
+  <img src="https://icon.mzrdev.com/trophy?username=MZRCode&sponsor=true&title=false" alt="trophy" />
   <img src="https://icon.mzrdev.com/snk?username=MZRCode&palette=github-dark&snake_color=5fed83&show_bar=true&color_bar_by_eaten=true&show_score=true&speed=1" alt="snake game" />
 </p>
